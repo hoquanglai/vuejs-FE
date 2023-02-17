@@ -3,7 +3,16 @@ body, html {
     padding: 0px;
     box-sizing: border-box;
 }
-
+button{
+    border:none;
+    outline:none;
+    cursor:pointer;
+    box-shadow: none;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
 .center {
     display: flex;
     align-items: center;

@@ -12,8 +12,18 @@
               <InputText
                 class="p-inputtext-xs"
                 placeholder="Nhập SĐT để nhận ưu đãi"
+                style="box-shadow: none"
               />
-              <Button icon="pi pi-search" class="p-button-xs" />
+              <Button
+                icon="pi pi-search"
+                class="p-button-xs"
+                style="
+                  box-shadow: none;
+                  border-radius: 0 !important;
+                  border: none;
+                  background-color: #011769;
+                "
+              />
             </div>
           </div>
           <div style="padding-right: 30px">
