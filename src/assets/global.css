@@ -1,0 +1,34 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.text-color-BE9355{
+    color: #BE9355;
+}
+.text-color-011769{
+    color: #011769;
+}
+
+.p-carousel-indicators{
+    display: none !important;
+    }
